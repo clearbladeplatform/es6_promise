@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,es6_promise",
+    "logging_enabled": "false",
+    "name": "es6_promiseSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "es6_promiseSmokeTest.js"
+}
